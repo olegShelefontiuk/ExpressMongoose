@@ -1,0 +1,7 @@
+{
+  "port": "5000",
+  "jwtSecret": "Oleg ExpressMongoose",
+  "mongoUri": "mongodb+srv://Oleg:Ce6053@cluster0.sspcq.azure.mongodb.net/beginer?retryWrites=true&w=majority",
+  "baseUrl" : "http://localhost:5000"
+}
+

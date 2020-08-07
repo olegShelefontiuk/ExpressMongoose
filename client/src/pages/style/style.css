@@ -1,0 +1,71 @@
+.window {
+    width: 500px;
+    height: auto;
+    margin-top: 150px;
+    margin-left: 200px;
+}
+
+
+.card-img {
+    width: 530px;
+    height: auto;
+    border-radius: 5px;
+    backface-visibility: visible;
+}
+.card-footer {
+    padding: 5px 10px;
+    margin-top: -80px;
+    margin-left: 270px;
+
+}
+.card-text {
+    position: absolute;
+color: gold;
+    font-size: 3rem;
+    top: 135px;
+}
+.input-email {
+    position: absolute;
+    top: 200px;
+    text-decoration-color: white;
+    color: #ffeb3b;
+    margin: 50px;
+}
+.input-password {
+    position: absolute;
+    top: 300px;
+    margin: 50px;
+    text-emphasis-color: white;
+}
+.card-title {
+    border-bottom: solid 1px darkblue;
+
+    font-size: 1.0rem;
+
+}
+.card-body{
+    padding: 30px;
+    margin-left: 290px;
+
+}
+.btn1 {
+    background: cornflowerblue;
+    color: white;
+
+   font-size: larger;
+}
+.btn2 {
+     background: orange;
+     color: white;
+    margin-left: 5px;
+     font-size: large;
+
+ }
+
+.modal-window {
+    width: 600px;
+    border-radius: 5px;
+    background: white;
+    height: 200px;
+
+}
